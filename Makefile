@@ -6,3 +6,6 @@ push:
 	git pull origin main 
 	git push origin main
 
+switch:
+	git switch rama2
+

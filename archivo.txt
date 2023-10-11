@@ -1,6 +1,2 @@
-hola mundo
-
-
-adios
 
 rama 2
